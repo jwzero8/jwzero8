@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwzero8
-- 👀 I’m interested in a junior front-end developer position in Vancouver, Canada (willing to relocate)
-- 🌱 I’m currently learning CS50W, CS50(done!)
+- 👀 I’m interested in a learning
+- 🌱 I’m currently learning basic CS concepts.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me > email: jwzero8@gmail.com
 
