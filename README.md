@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jwzero8
 - 👀 I’m interested in a learning
-- 🌱 I’m currently learning basic CS concepts.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me > email: jwzero8@gmail.com
 
